@@ -1,0 +1,12 @@
+c:\users\narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\bin\Debug\MagazinDeElectronice.exe.config
+c:\users\narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\bin\Debug\MagazinDeElectronice.exe
+c:\users\narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\bin\Debug\MagazinDeElectronice.pdb
+c:\users\narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\obj\Debug\MagazinDeElectronice.Properties.Resources.resources
+c:\users\narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\obj\Debug\MagazinDeElectronice.csproj.GenerateResource.Cache
+c:\users\narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\obj\Debug\MagazinDeElectronice.exe
+c:\users\narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\obj\Debug\MagazinDeElectronice.pdb
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\obj\Debug\MagazinDeElectronice.csprojResolveAssemblyReference.cache
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\obj\Debug\MagazinDeElectronice.ui.AppV2.resources
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\obj\Debug\MagazinDeElectronice.ui.Main.resources
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\bin\Debug\MagazinCommon.dll
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinDeElectronice\bin\Debug\MagazinCommon.pdb

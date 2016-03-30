@@ -1,0 +1,8 @@
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\bin\Debug\MagazinServer.exe.config
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\bin\Debug\MagazinServer.exe
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\bin\Debug\MagazinServer.pdb
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\bin\Debug\MagazinCommon.dll
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\bin\Debug\MagazinCommon.pdb
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\obj\Debug\MagazinServer.csprojResolveAssemblyReference.cache
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\obj\Debug\MagazinServer.exe
+C:\Users\Narcis2007\documents\visual studio 2015\Projects\MagazinDeElectronice\MagazinServer\obj\Debug\MagazinServer.pdb
